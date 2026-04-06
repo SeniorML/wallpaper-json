@@ -133,5 +133,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sport%20Car/1775481839665_IMG-20260404-WA0075.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sport%20Car/1775481839669_IMG-20260404-WA0075.jpg",
     "sort": 5
+  },
+  "Wallpaper Sport Car-1775481861445": {
+    "hero": "Wallpaper Sport Car",
+    "type": "Skin",
+    "skin_name": "6",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sport%20Car/1775481858525_IMG-20260404-WA0074.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sport%20Car/1775481858525_IMG-20260404-WA0074.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sport%20Car/1775481858521_IMG-20260404-WA0074.jpg",
+    "sort": 6
   }
 }
