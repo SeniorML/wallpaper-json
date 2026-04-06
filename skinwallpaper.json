@@ -70,5 +70,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20iOS/1775480917040_IMG-20260404-WA0012.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20iOS/1775480917036_IMG-20260404-WA0012.jpg",
     "sort": 8
+  },
+  "Wallpaper iOS-1775480953458": {
+    "hero": "Wallpaper iOS",
+    "type": "Skin",
+    "skin_name": "9",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20iOS/1775480948844_IMG-20260404-WA0011.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20iOS/1775480948844_IMG-20260404-WA0011.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20iOS/1775480948860_IMG-20260404-WA0011.jpg",
+    "sort": 9
   }
 }
