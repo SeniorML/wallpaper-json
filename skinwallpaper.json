@@ -88,5 +88,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20iOS/1775481291441_IMG-20260404-WA0010.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20iOS/1775481291436_IMG-20260404-WA0010.jpg",
     "sort": 10
+  },
+  "Wallpaper Sport Car-1775481403970": {
+    "hero": "Wallpaper Sport Car",
+    "type": "Remove",
+    "skin_name": "1",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sport%20Car/1775481400943_IMG-20260404-WA0078.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sport%20Car/1775481400943_IMG-20260404-WA0078.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sport%20Car/1775481400950_IMG-20260404-WA0078.jpg",
+    "sort": 1
   }
 }
