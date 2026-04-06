@@ -691,5 +691,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Natural/1775484606091_IMG-20260404-WA0004.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Natural/1775484606083_IMG-20260404-WA0004.jpg",
     "sort": 7
+  },
+  "Wallpaper Natural-1775484719106": {
+    "hero": "Wallpaper Natural",
+    "type": "Skin",
+    "skin_name": "8",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Natural/1775484715046_IMG-20260404-WA0002.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Natural/1775484715046_IMG-20260404-WA0002.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Natural/1775484715043_IMG-20260404-WA0002.jpg",
+    "sort": 8
   }
 }
