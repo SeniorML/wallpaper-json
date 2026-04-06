@@ -313,5 +313,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Aesthetic/1775482746557_IMG-20260404-WA0056.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Aesthetic/1775482746562_IMG-20260404-WA0056.jpg",
     "sort": 5
+  },
+  "Wallpaper Aesthetic-1775482775361": {
+    "hero": "Wallpaper Aesthetic",
+    "type": "Skin",
+    "skin_name": "6",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Aesthetic/1775482772578_IMG-20260404-WA0054.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Aesthetic/1775482772578_IMG-20260404-WA0054.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Aesthetic/1775482772573_IMG-20260404-WA0054.jpg",
+    "sort": 6
   }
 }
