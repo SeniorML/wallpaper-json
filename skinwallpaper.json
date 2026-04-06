@@ -178,5 +178,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sport%20Car/1775482028408_IMG-20260404-WA0070.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sport%20Car/1775482028397_IMG-20260404-WA0070.jpg",
     "sort": 10
+  },
+  "Wallpaper Dark-1775482124228": {
+    "hero": "Wallpaper Dark",
+    "type": "Remove",
+    "skin_name": "1",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Dark/1775482121653_IMG-20260404-WA0069.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Dark/1775482121653_IMG-20260404-WA0069.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Dark/1775482121656_IMG-20260404-WA0069.jpg",
+    "sort": 1
   }
 }
