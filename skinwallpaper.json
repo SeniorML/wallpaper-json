@@ -1,1 +1,11 @@
-{}
+{
+  "Wallpaper iOS-1775471830288": {
+    "hero": "Wallpaper iOS",
+    "type": "Remove",
+    "skin_name": "1",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20iOS/1775471827400_IMG-20260404-WA0017.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20iOS/1775471827400_IMG-20260404-WA0017.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20iOS/1775471827404_IMG-20260404-WA0017.jpg",
+    "sort": 1
+  }
+}
