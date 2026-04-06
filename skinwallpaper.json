@@ -619,5 +619,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sky/1775484307797_IMG-20260404-WA0021.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sky/1775484307788_IMG-20260404-WA0021.jpg",
     "sort": 9
+  },
+  "Wallpaper Sky-1775484357957": {
+    "hero": "Wallpaper Sky",
+    "type": "Skin",
+    "skin_name": "10",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sky/1775484354778_IMG-20260404-WA0020.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sky/1775484354778_IMG-20260404-WA0020.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Sky/1775484354785_IMG-20260404-WA0020.jpg",
+    "sort": 10
   }
 }
