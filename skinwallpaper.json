@@ -268,5 +268,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Dark/1775482500961_IMG-20260404-WA0060.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Dark/1775482500967_IMG-20260404-WA0060.jpg",
     "sort": 10
+  },
+  "Wallpaper Aesthetic-1775482637618": {
+    "hero": "Wallpaper Aesthetic",
+    "type": "Remove",
+    "skin_name": "1",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Aesthetic/1775482632804_IMG-20260404-WA0058.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Aesthetic/1775482632804_IMG-20260404-WA0058.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Aesthetic/1775482632799_IMG-20260404-WA0058.jpg",
+    "sort": 1
   }
 }
