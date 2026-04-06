@@ -421,5 +421,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Cartoon/1775483266008_IMG-20260404-WA0043.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Cartoon/1775483266014_IMG-20260404-WA0043.jpg",
     "sort": 7
+  },
+  "Wallpaper Cartoon-1775483285125": {
+    "hero": "Wallpaper Cartoon",
+    "type": "Skin",
+    "skin_name": "8",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Cartoon/1775483280750_IMG-20260404-WA0042.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Cartoon/1775483280750_IMG-20260404-WA0042.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Cartoon/1775483280755_IMG-20260404-WA0042.jpg",
+    "sort": 8
   }
 }
