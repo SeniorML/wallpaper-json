@@ -358,5 +358,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Aesthetic/1775483040551_IMG-20260404-WA0050.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Aesthetic/1775483040546_IMG-20260404-WA0050.jpg",
     "sort": 10
+  },
+  "Wallpaper Cartoon-1775483116134": {
+    "hero": "Wallpaper Cartoon",
+    "type": "Remove",
+    "skin_name": "1",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Cartoon/1775483111138_IMG-20260404-WA0049.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Cartoon/1775483111138_IMG-20260404-WA0049.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Cartoon/1775483111128_IMG-20260404-WA0049.jpg",
+    "sort": 1
   }
 }
