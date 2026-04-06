@@ -232,5 +232,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Dark/1775482377350_IMG-20260404-WA0065.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Dark/1775482377347_IMG-20260404-WA0065.jpg",
     "sort": 6
+  },
+  "Wallpaper Dark-1775482398817": {
+    "hero": "Wallpaper Dark",
+    "type": "Skin",
+    "skin_name": "7",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Dark/1775482395154_IMG-20260404-WA0063.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Dark/1775482395154_IMG-20260404-WA0063.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Dark/1775482395148_IMG-20260404-WA0063.jpg",
+    "sort": 7
   }
 }
