@@ -520,5 +520,14 @@
     "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Abstract%20Neon/1775483733779_IMG-20260404-WA0032.jpg",
     "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Abstract%20Neon/1775483733784_IMG-20260404-WA0032.jpg",
     "sort": 8
+  },
+  "Wallpaper Abstract Neon-1775483769676": {
+    "hero": "Wallpaper Abstract Neon",
+    "type": "Remove",
+    "skin_name": "9",
+    "img": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Abstract%20Neon/1775483765708_IMG-20260404-WA0030.jpg",
+    "img2": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Abstract%20Neon/1775483765708_IMG-20260404-WA0030.jpg",
+    "url": "https://raw.githubusercontent.com/SeniorML/wallpaper-json/main/uploads/Wallpaper%20Abstract%20Neon/1775483765718_IMG-20260404-WA0030.jpg",
+    "sort": 9
   }
 }
